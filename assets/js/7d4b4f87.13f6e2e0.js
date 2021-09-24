@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmymedicapp_docs=self.webpackChunkmymedicapp_docs||[]).push([[734],{3465:function(s){s.exports=JSON.parse('{"allTagsPath":"/mymedicapp-docs-site/blog/tags","slug":"/mymedicapp-docs-site/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/mymedicapp-docs-site/blog/tags/docusaurus"}')}}]);
