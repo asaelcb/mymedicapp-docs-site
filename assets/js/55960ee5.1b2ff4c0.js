@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmymedicapp_docs=self.webpackChunkmymedicapp_docs||[]).push([[121],{8070:function(c){c.exports=[]}}]);
