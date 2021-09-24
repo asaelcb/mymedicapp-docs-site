@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmymedicapp_docs=self.webpackChunkmymedicapp_docs||[]).push([[195],{9526:function(e,c,n){n.r(c),n.d(c,{default:function(){return r}});var t=n(7294),u=n(5977);n(6698),n(2263);function r(){return t.createElement(u.l_,{to:"/docs/intro"})}}}]);
