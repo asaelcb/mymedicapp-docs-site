@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmymedicapp_docs=self.webpackChunkmymedicapp_docs||[]).push([[384],{9936:function(e){e.exports=JSON.parse('{"allTagsPath":"/mymedicapp-docs-site/blog/tags","slug":"/mymedicapp-docs-site/blog/tags/facebook","name":"facebook","count":1,"permalink":"/mymedicapp-docs-site/blog/tags/facebook"}')}}]);
